@@ -1,4 +1,4 @@
-# Unstoppable Wallet
+# B ONE PAYMENT Wallet
 
 We dream of a world… A world where private property is untouchable and market access is unconditional.
 
@@ -8,7 +8,7 @@ It is fully peer-to-peer and works without any centrally managed servers. It can
 
 Such approach enables the wallet to operate anywhere and remain censoship-resitant. Only the user is in control of the money.
 
-More at [https://unstoppable.money](https://unstoppable.money)
+More at [https://b-one-payment.money](https://b-one-payment.money)
 
 ## Download
 
@@ -16,7 +16,7 @@ More at [https://unstoppable.money](https://unstoppable.money)
 
 ## Source Code
 
-[https://github.com/horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android)
+[https://github.com/horizontalsystems/b-one-payment-wallet-android](https://github.com/horizontalsystems/b-one-payment-wallet-android)
 
 ## License
 

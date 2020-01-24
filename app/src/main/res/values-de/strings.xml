@@ -23,7 +23,7 @@
     <string name="NotAvailable">N/A</string>
     <string name="Wallet">%s wallet</string>
     <!--Welcome-->
-    <string name="Welcome_Title">Unstoppable</string>
+    <string name="Welcome_Title">B ONE PAYMENT</string>
     <string name="Welcome_CreateWallet">Wallet Erstellen</string>
     <string name="Welcome_RestoreWallet">Wallet Wiederherstellen</string>
     <!--Create-->
@@ -211,12 +211,12 @@
     <string name="SettingsLanguage_Title">Sprache</string>
     <!--Setting_About-->
     <string name="SettingsAbout_Title">Info</string>
-    <string name="SettingsAbout_AppTitle">Unstoppable</string>
+    <string name="SettingsAbout_AppTitle">B ONE PAYMENT</string>
     <string name="SettingsAbout_TermsPrivacySubtitle">ANB &amp; Datenschutz:</string>
     <string name="SettingsAbout_TermsPrivacyText">Diese App basiert auf dem Peer-to-Peer-Prinzip. Das bietet den Vorteil, dass die App zum Funktionieren nicht auf bestimmte Webserver oder technischem Supportpersonal abhängig ist.\n\nDie App funktioniert überall. Sie benötigen nur einen Internetzugang. Niemand kann die App stoppen oder Sie davon abhalten, sie zu nutzen.\n\nIhre Guthaben sind sicher auf Ihrem Telefon gespeichert, nirgendwo sonst.\n\nEs liegt in Ihrer Verantwortung, den Private Key/Secret Key zu sichern und ihn gut aufzubewahren. Zeigen Sie ihn niemandem. Wenn er verloren geht, Sie ihn vergessen oder er gestohlen wird, kann Ihr Guthaben von demjenigen ausgegeben werden, der den Key besitzt.\n\nFühren Sie auf Ihrem Telefon keinen Jailbreak durch. Installieren Sie keine Apps aus unbekannten (nicht vertrauenswürdigen) Quellen. Geben Sie das Telefon keiner nicht vertrauenswürdigen Person und aktualisieren Sie das Betriebssystem Ihres Telefons regelmäßig. Die Sicherheit Ihres Wallets hängt davon ab.\n\nDer gesamte Code dieser App ist seit Anfang an öffentlich einsehbar. Wir haben versucht, das sicherste und dezentralisierteste Wallet zu programmieren. Allerdings gibt es keine Garantie, dass keine unvorhergesehenen Softwareprobleme auftreten. Trotzdem ist dieses Wallet wahrscheinlich deutlich sicherer als jede andere Smartphone-App.\n\nHinweis: Manche generischen, nicht geheimen App-Daten (wie Währungswechselkurse) werden in einem dezentralen Netzwerken (IPFS) gespeichert.</string>
     <!--Setting_Tell Friends-->
     <string name="SettingsShare_Title">Teilen</string>
-    <string name="SettingsShare_Text">Unstoppable Wallet - eine krypto Wallet, die ich empfehle</string>
+    <string name="SettingsShare_Text">B ONE PAYMENT Wallet - eine krypto Wallet, die ich empfehle</string>
     <!--Setting_Report-->
     <string name="SettingsReport_Title">Problem melden</string>
     <string name="SettingsReport_Email">E-Mail</string>
@@ -225,7 +225,7 @@
     <!--Setting_Notifications-->
     <string name="SettingsNotifications_Title">Benachrichtigungen</string>
     <string name="SettingsNotifications_Description">Legen Sie einen Preisänderungsalarm für die Coins fest, die Sie beobachten möchten. \n\nSie werden benachrichtigt, wenn die Preisänderung in den letzten 24 Stunden die von Ihnen festgesetzte Grenze übersteigt.</string>
-    <string name="SettingsNotifications_NotificationsDisabledWarning">Die Benachrichtigungen für das Unstoppable Wallet sind ausgeschaltet. Sie müssen die Benachrichtigungen einschalten und eine Aktualisierung im Hintergrund erlauben, um Benachrichtigungen bei Preisänderungn zu erhalten.</string>
+    <string name="SettingsNotifications_NotificationsDisabledWarning">Die Benachrichtigungen für das B ONE PAYMENT Wallet sind ausgeschaltet. Sie müssen die Benachrichtigungen einschalten und eine Aktualisierung im Hintergrund erlauben, um Benachrichtigungen bei Preisänderungn zu erhalten.</string>
     <string name="SettingsNotifications_TurnOn">In Einstellungen einschalten</string>
     <string name="SettingsNotifications_Off">Aus</string>
     <string name="SettingsNotifications_DeactivateAll">Alle deaktivieren</string>
@@ -294,7 +294,7 @@
     <string name="ExperimentalFeatures_BitcoinHodling">Bitcoins sperren</string>
     <!-- Bitcoin Hodling -->
     <string name="BitcoinHodling_Title">Bitcoins sperren</string>
-    <string name="BitcoinHodling_Description">Damit können Sie gesendete Bitcoins sperren, sodass sie bis zu dem festgesetzten Datum nicht ausgegeben werden können.\n\nDer Empfänger einer solchen Transaktion sollte das Unstoppable-Wallet in der Version 0.10 (oder neuer) sowie das Bitcoin-Adressformat BIP44 verwenden.\n\nNur das Unstoppable-Wallet erkennt solche Transaktionen im Bitcoin-Netzwerk korrekt und ermöglicht es dem Empfänger, die Bitcoins nach der Sperrzeit zu auszugeben.\n\nWenn Sie ein HODLer* sind, können Sie diese Funktion auch für sich selbst nutzen, indem Sie sich selbst eine solche Transaktion schicken und so ihre Bitcoin für sich selbst zeitlich sperren.\n\nDa es sich noch um eine experimentelle Funktion handelt, liegt der maximale Betrag bei 0,5 BTC.</string>
+    <string name="BitcoinHodling_Description">Damit können Sie gesendete Bitcoins sperren, sodass sie bis zu dem festgesetzten Datum nicht ausgegeben werden können.\n\nDer Empfänger einer solchen Transaktion sollte das B ONE PAYMENT-Wallet in der Version 0.10 (oder neuer) sowie das Bitcoin-Adressformat BIP44 verwenden.\n\nNur das B ONE PAYMENT-Wallet erkennt solche Transaktionen im Bitcoin-Netzwerk korrekt und ermöglicht es dem Empfänger, die Bitcoins nach der Sperrzeit zu auszugeben.\n\nWenn Sie ein HODLer* sind, können Sie diese Funktion auch für sich selbst nutzen, indem Sie sich selbst eine solche Transaktion schicken und so ihre Bitcoin für sich selbst zeitlich sperren.\n\nDa es sich noch um eine experimentelle Funktion handelt, liegt der maximale Betrag bei 0,5 BTC.</string>
     <!--Manage Keys-->
     <string name="ManageKeys_Title">Wallets verwalten</string>
     <string name="ManageKeys_Description">Unten sind die aktiven Wallets hervorgehoben. Jedes dieser Wallets ist für einen Satz von Kryptowährungen vorgesehen.\n\nSie sollten jedes hervorgehobene Wallet sichern, indem Sie den jeweiligen Private Key sichern. \n\nDiese Keys sind die einzige Möglichkeit, Ihr Guthaben wiederherzustellen, wenn Ihr Telefon verloren geht, gestohlen wird oder die App nicht mehr funktioniert.</string>
@@ -318,11 +318,11 @@
     <string name="AddCoin_CreateKey">Erstellen</string>
     <string name="AddCoin_RestoreKey">Wiederherstellen</string>
     <!-- Account Types -->
-    <string name="AccountType_Unstoppable">Unstoppable</string>
+    <string name="AccountType_Unstoppable">B ONE PAYMENT</string>
     <!--Coin Option-->
     <string name="CoinOption_Title">Optionen Wiederherstellen</string>
     <string name="CoinOption_Fast_Subtitle">0-2 Stunden (Empfohlen)</string>
-    <string name="CoinOption_SyncModeDescription">Wählen Sie die Quelle, die Unstoppable zum Herunterladen Ihres Kontostandes und Ihrer Transaktionen verwenden soll.\n\nHorizontal Systems %1s API: \n%2s</string>
+    <string name="CoinOption_SyncModeDescription">Wählen Sie die Quelle, die B ONE PAYMENT zum Herunterladen Ihres Kontostandes und Ihrer Transaktionen verwenden soll.\n\nHorizontal Systems %1s API: \n%2s</string>
     <string name="CoinOption_Slow_Subtitle">1–12 Stunden</string>
     <string name="CoinOption_BipDescriptionCreate">Mit dieser Einstellung wählen Sie das Adressformat für Bitcoin in diesem Wallet. Wenn Sie unsicher sind, empfehlen wir die Nutzung von BIP49.</string>
     <string name="CoinOption_BipDescriptionRestore">Wählen Sie das Adressformat für die Bitcoin in dem Wallet, das Sie wiederherstellen möchten.</string>

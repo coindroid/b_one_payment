@@ -23,7 +23,7 @@
     <string name="NotAvailable">不可用</string>
     <string name="Wallet">%s钱包</string>
     <!--Welcome-->
-    <string name="Welcome_Title">Unstoppable</string>
+    <string name="Welcome_Title">B ONE PAYMENT</string>
     <string name="Welcome_CreateWallet">创建钱包</string>
     <string name="Welcome_RestoreWallet">恢复钱包</string>
     <!--Create-->
@@ -211,7 +211,7 @@
     <string name="SettingsLanguage_Title">语言</string>
     <!--Setting_About-->
     <string name="SettingsAbout_Title">关于</string>
-    <string name="SettingsAbout_AppTitle">Unstoppable</string>
+    <string name="SettingsAbout_AppTitle">B ONE PAYMENT</string>
     <string name="SettingsAbout_TermsPrivacySubtitle">条款和隐私：</string>
     <string name="SettingsAbout_TermsPrivacyText">此应用是一款点对点应用。其运作不依赖于任何网络服务器或技术支持人员。
 \n\n只要有网络它就能工作。没有实体能够阻止此应用工作或者阻止任何人使用它。
@@ -222,7 +222,7 @@
 \n\n像货币汇率等通用非私有应用数据将保存在分散式存储系统（IPFS）。</string>
     <!--Setting_Tell Friends-->
     <string name="SettingsShare_Title">分享</string>
-    <string name="SettingsShare_Text">Unstoppable Wallet——我强烈推荐的一款加密货币钱包</string>
+    <string name="SettingsShare_Text">B ONE PAYMENT Wallet——我强烈推荐的一款加密货币钱包</string>
     <!--Setting_Report-->
     <string name="SettingsReport_Title">报告问题</string>
     <string name="SettingsReport_Email">邮件</string>
@@ -231,7 +231,7 @@
     <!--Setting_Notifications-->
     <string name="SettingsNotifications_Title">通知</string>
     <string name="SettingsNotifications_Description">为您要监察的代币设置价格变更警报。\n\n当价格的变化在24小时内超出选定的临界值时，您将收到警报。</string>
-    <string name="SettingsNotifications_NotificationsDisabledWarning">已禁用Unstoppable钱包应用通知。您必须开启通知并允许后台应用刷新才能接收价格变更警报。</string>
+    <string name="SettingsNotifications_NotificationsDisabledWarning">已禁用B ONE PAYMENT钱包应用通知。您必须开启通知并允许后台应用刷新才能接收价格变更警报。</string>
     <string name="SettingsNotifications_TurnOn">在设置中开启</string>
     <string name="SettingsNotifications_Off">关</string>
     <string name="SettingsNotifications_DeactivateAll">全部停用</string>
@@ -291,14 +291,14 @@
     <string name="ManageCoins_title">代币管理器</string>
     <string name="ManageCoins_save">保存</string>
     <string name="ManageCoins_Alert_CantCreateTitle">%s钱包</string>
-    <string name="ManageCoins_Alert_CantCreateDescription">Unstoppable此时无法创建新的%s钱包。您只可以恢复现有的钱包。</string>
+    <string name="ManageCoins_Alert_CantCreateDescription">B ONE PAYMENT此时无法创建新的%s钱包。您只可以恢复现有的钱包。</string>
     <!-- Experimental Feature -->
     <string name="ExperimentalFeatures_Title">实验性</string>
     <string name="ExperimentalFeatures_Description">以下功能为实验性，应谨慎使用。虽然我们已使用自己的加密货币资金对这些功能进行了彻底测试，但是我们不保证它们在所有情况下都能如常工作。</string>
     <string name="ExperimentalFeatures_BitcoinHodling">锁定比特币</string>
     <!-- Bitcoin Hodling -->
     <string name="BitcoinHodling_Title">锁定比特币</string>
-    <string name="BitcoinHodling_Description">让您汇出在指定日期前无法消费的比特币。\n\n 此交易的收款人应使用Unstoppable钱包。\n\n只有Unstoppable钱包能够正确识别此类在比特币网络上的交易并让收款人在锁定期限结束后消费那些比特币。\n\n如果您是持有人，您可以使用此功能通过向自己发送此类交易的方式来强制自己持有比特币。\n\n作为实验性功能，每次交易的最大金额限制为0.5 BTC。</string>
+    <string name="BitcoinHodling_Description">让您汇出在指定日期前无法消费的比特币。\n\n 此交易的收款人应使用B ONE PAYMENT钱包。\n\n只有B ONE PAYMENT钱包能够正确识别此类在比特币网络上的交易并让收款人在锁定期限结束后消费那些比特币。\n\n如果您是持有人，您可以使用此功能通过向自己发送此类交易的方式来强制自己持有比特币。\n\n作为实验性功能，每次交易的最大金额限制为0.5 BTC。</string>
     <!--Manage Keys-->
     <string name="ManageKeys_Title">管理钱包</string>
     <string name="ManageKeys_Description">在下方突出显示的就是您的活跃钱包，每一个钱包负责不同的加密货币集合。\n\n您应该通过备份每一个突出显示的钱包的私钥对其进行备份。如果您的手机出现丢失、被盗、损坏等情况，该密钥是恢复您资金的唯一方法。</string>
@@ -322,11 +322,11 @@
     <string name="AddCoin_CreateKey">创建</string>
     <string name="AddCoin_RestoreKey">恢复</string>
     <!-- Account Types -->
-    <string name="AccountType_Unstoppable">Unstoppable</string>
+    <string name="AccountType_Unstoppable">B ONE PAYMENT</string>
     <!--Coin Option-->
     <string name="CoinOption_Title">恢复选项</string>
     <string name="CoinOption_Fast_Subtitle">0 - 2小时（推荐）</string>
-    <string name="CoinOption_SyncModeDescription">选择Unstoppable应用于下载您的 余额和交易的源。\n\n水平系统%1s API：\n%2s</string>
+    <string name="CoinOption_SyncModeDescription">选择B ONE PAYMENT应用于下载您的 余额和交易的源。\n\n水平系统%1s API：\n%2s</string>
     <string name="CoinOption_Slow_Subtitle">1- 12 小时</string>
     <string name="CoinOption_BipDescriptionCreate">此设置控制着此钱包中比特币的地址格式。如果不确定，我们建议使用BIP49。</string>
     <string name="CoinOption_BipDescriptionRestore">选择您尝试恢复的钱包中的比特币的地址格式。</string>

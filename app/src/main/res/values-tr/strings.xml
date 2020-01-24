@@ -23,7 +23,7 @@
     <string name="NotAvailable">N/A</string>
     <string name="Wallet">%s cüzdanı</string>
     <!--Welcome-->
-    <string name="Welcome_Title">Unstoppable</string>
+    <string name="Welcome_Title">B ONE PAYMENT</string>
     <string name="Welcome_CreateWallet">Cüzdan Oluştur</string>
     <string name="Welcome_RestoreWallet">Cüzdanı Geri Yükle</string>
     <!--Create-->
@@ -222,7 +222,7 @@
 \n\nDöviz kurları gibi bazı 	jenerik resmi olmayan uygulama verileri merkezi olmayan IPFS sisteminde depolanır. </string>
     <!--Setting_Tell Friends-->
     <string name="SettingsShare_Title">Paylaş</string>
-    <string name="SettingsShare_Text">Unstoppable Wallet - kullanmanız gereken kripto para cüzdanı</string>
+    <string name="SettingsShare_Text">B ONE PAYMENT Wallet - kullanmanız gereken kripto para cüzdanı</string>
     <!--Setting_Report-->
     <string name="SettingsReport_Title">Sorunu Bildir</string>
     <string name="SettingsReport_Email">E-posta</string>
@@ -231,7 +231,7 @@
     <!--Setting_Notifications-->
     <string name="SettingsNotifications_Title">Bildirimler</string>
     <string name="SettingsNotifications_Description">İzlemek istediğiniz paralar için fiyat değişikliği uyarılarını ayarlayın.\n\nSon 24 saatteki fiyat değişikliği seçilen eşiği aştığında uyarılırsınız.</string>
-    <string name="SettingsNotifications_NotificationsDisabledWarning">Unstoppable Cüzdan uygulaması için bildirimler devre dışı bırakıldı. Fiyat değişikliği uyarıları alabilmek için Bildirimler\'i açmanız ve arka plan uygulaması yenilemesine izin vermeniz gerekir.</string>
+    <string name="SettingsNotifications_NotificationsDisabledWarning">B ONE PAYMENT Cüzdan uygulaması için bildirimler devre dışı bırakıldı. Fiyat değişikliği uyarıları alabilmek için Bildirimler\'i açmanız ve arka plan uygulaması yenilemesine izin vermeniz gerekir.</string>
     <string name="SettingsNotifications_TurnOn">Ayarlardan aç</string>
     <string name="SettingsNotifications_Off">Kapat</string>
     <string name="SettingsNotifications_DeactivateAll">Etkisizleştir</string>
@@ -298,7 +298,7 @@
     <string name="ExperimentalFeatures_BitcoinHodling">Kilitli Bitcoins</string>
     <!-- Bitcoin Hodling -->
     <string name="BitcoinHodling_Title">Kilitli Bitcoins</string>
-    <string name="BitcoinHodling_Description">Belirtilen tarihe kadar harcanmamış Bitcoin\'leri göndermenize olanak verir.\n\nBu tür bir işlemin alıcısı Unstoppable cüzdan kullanmalıdır.\n\nSadece Unstoppable cüzdan, Bitcoin ağındaki bu tür işlemleri doğru bir şekilde tanımlayabilir ve kilitleme süresi dolduktan sonra da alıcının bu Bitcoin\'leri harcamasını sağlayabilir.\n\nEğer bir HODLer iseniz, kendinize böyle bir işlem göndererek, bu özelliği Bitcoin\'lerinizi zarar etmeden uzun süre elinizde tutmaya zorlamak için kullanabilirsiniz.\n\nDeneysel bir özellik olduğundan, işlem başına maksimum tutar 0.5 BTC ile sınırlandırılmıştır.</string>
+    <string name="BitcoinHodling_Description">Belirtilen tarihe kadar harcanmamış Bitcoin\'leri göndermenize olanak verir.\n\nBu tür bir işlemin alıcısı B ONE PAYMENT cüzdan kullanmalıdır.\n\nSadece B ONE PAYMENT cüzdan, Bitcoin ağındaki bu tür işlemleri doğru bir şekilde tanımlayabilir ve kilitleme süresi dolduktan sonra da alıcının bu Bitcoin\'leri harcamasını sağlayabilir.\n\nEğer bir HODLer iseniz, kendinize böyle bir işlem göndererek, bu özelliği Bitcoin\'lerinizi zarar etmeden uzun süre elinizde tutmaya zorlamak için kullanabilirsiniz.\n\nDeneysel bir özellik olduğundan, işlem başına maksimum tutar 0.5 BTC ile sınırlandırılmıştır.</string>
     <!--Manage Keys-->
     <string name="ManageKeys_Title">Cüzdanları yönet</string>
     <string name="ManageKeys_Description">Aşağıda vurgulanan, her cüzdanın farklı kripto para birimlerinden sorumlu olduğu aktif cüzdanlarınızdır.\n\nVurgulanan her cüzdanı, o cüzdanın özel anahtarını kesinlikte yedeklemelisiniz. Bu anahtar, telefonunuz kaybolur, çalınır yada kırılırsa, Kripto paranızı geri kazanmanın tek yoludur.</string>
@@ -322,11 +322,11 @@
     <string name="AddCoin_CreateKey">Oluştur</string>
     <string name="AddCoin_RestoreKey">Geri Yükle</string>
     <!-- Account Types -->
-    <string name="AccountType_Unstoppable">Unstoppable</string>
+    <string name="AccountType_Unstoppable">B ONE PAYMENT</string>
     <!--Coin Option-->
     <string name="CoinOption_Title">Geri yükleme seçenekleri</string>
     <string name="CoinOption_Fast_Subtitle">0-2 saat (Tavsiye edilen)</string>
-    <string name="CoinOption_SyncModeDescription">Unstoppablenin bakiyenizi ve işlemlerinizi indirmek için kullanması gereken kaynağı seçin.\n\nHorizontal Systems %1s API: \n%2s</string>
+    <string name="CoinOption_SyncModeDescription">B ONE PAYMENTnin bakiyenizi ve işlemlerinizi indirmek için kullanması gereken kaynağı seçin.\n\nHorizontal Systems %1s API: \n%2s</string>
     <string name="CoinOption_Slow_Subtitle">1-12 saat</string>
     <string name="CoinOption_BipDescriptionCreate">Bu ayar, bu cüzdandaki Bitcoin adres formatını kontrol eder. Emin değilseniz BIP49 kullanmanızı öneririz.</string>
     <string name="CoinOption_BipDescriptionRestore">Geri yüklemeye çalıştığınız cüzdandaki Bitcoin için adres formatını seçin.</string>

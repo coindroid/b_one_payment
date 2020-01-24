@@ -23,7 +23,7 @@
     <string name="NotAvailable">N/A</string>
     <string name="Wallet">%s monedero</string>
     <!--Welcome-->
-    <string name="Welcome_Title">Unstoppable</string>
+    <string name="Welcome_Title">B ONE PAYMENT</string>
     <string name="Welcome_CreateWallet">Crear cartera</string>
     <string name="Welcome_RestoreWallet">Restaurar cartera</string>
     <!--Create-->
@@ -211,7 +211,7 @@
     <string name="SettingsLanguage_Title">Idioma</string>
     <!--Setting_About-->
     <string name="SettingsAbout_Title">Acerca de</string>
-    <string name="SettingsAbout_AppTitle">Unstoppable</string>
+    <string name="SettingsAbout_AppTitle">B ONE PAYMENT</string>
     <string name="SettingsAbout_TermsPrivacySubtitle">Términos &amp; privacidad:</string>
     <string name="SettingsAbout_TermsPrivacyText">Esta aplicación es de servidor a servidor. No depende de ninguna web o tecnología personal de apoyo a la función.
 
@@ -228,7 +228,7 @@
 \n\nAlgunos datos genéricos de carácter público de esta app se guardan en centros de almacenamiento descentralizado (IPFS).</string>
     <!--Setting_Tell Friends-->
     <string name="SettingsShare_Title">Compartir</string>
-    <string name="SettingsShare_Text">Monedero Unstoppable - un monedero de criptomonedas que yo recomiendo</string>
+    <string name="SettingsShare_Text">Monedero B ONE PAYMENT - un monedero de criptomonedas que yo recomiendo</string>
     <!--Setting_Report-->
     <string name="SettingsReport_Title">Reportar un problema</string>
     <string name="SettingsReport_Email">Correo electrónico</string>
@@ -237,7 +237,7 @@
     <!--Setting_Notifications-->
     <string name="SettingsNotifications_Title">Notificaciones</string>
     <string name="SettingsNotifications_Description">Establecer alertas de cambio de precio para las monedas que desea ver.\n\nSe le avisará cuando el cambio de precio, durante las últimas 24 horas, supere el umbral seleccionado.</string>
-    <string name="SettingsNotifications_NotificationsDisabledWarning">Las notificaciones para la aplicación del Monedero Unstoppable están desactivadas. Necesita activarlas para poder recibir alertas de cambio de precios.</string>
+    <string name="SettingsNotifications_NotificationsDisabledWarning">Las notificaciones para la aplicación del Monedero B ONE PAYMENT están desactivadas. Necesita activarlas para poder recibir alertas de cambio de precios.</string>
     <string name="SettingsNotifications_TurnOn">Activar en ajustes</string>
     <string name="SettingsNotifications_Off">Desactivado</string>
     <string name="SettingsNotifications_DeactivateAll">Desactivar todo</string>
@@ -297,14 +297,14 @@
     <string name="ManageCoins_title">Gestor de monedas</string>
     <string name="ManageCoins_save">Guardar</string>
     <string name="ManageCoins_Alert_CantCreateTitle">%s Monedero</string>
-    <string name="ManageCoins_Alert_CantCreateDescription">En este momento Unstoppable no es capaz de crear nuevas cuentas de monederos %s. Solo puede restaurar la existente.</string>
+    <string name="ManageCoins_Alert_CantCreateDescription">En este momento B ONE PAYMENT no es capaz de crear nuevas cuentas de monederos %s. Solo puede restaurar la existente.</string>
     <!-- Experimental Feature -->
     <string name="ExperimentalFeatures_Title">Experimental</string>
     <string name="ExperimentalFeatures_Description">Las siguientes características son experimentales y deben utilizarse con precaución. Aunque hemos probado a fondo estas características usando nuestros propios fondos criptográficos, no podemos garantizar que funcionen como se espera en todos los casos posibles.</string>
     <string name="ExperimentalFeatures_BitcoinHodling">Bloquear Bitcoins</string>
     <!-- Bitcoin Hodling -->
     <string name="BitcoinHodling_Title">Bloquear Bitcoins</string>
-    <string name="BitcoinHodling_Description">Permite enviar Bitcoins que no se pueden gastar hasta la fecha establecida.\n\nEl receptor de dicha transacción debe utilizar el monedero Unstoppable.\n\nSólo el monedero Unstoppable puede identificar correctamente tales transacciones en la red Bitcoin, así como permitir que el receptor gaste esos Bitcoins después de que expire el período de bloqueo.\n\nSi eres un HODLer, puedes usar esta función para obligarte a retener tus Bitcoins enviándote dicha transacción a ti mismo.\n\nPor ser característica experimental, la cantidad máxima por transacción está limitada a 0.5 BTC.</string>
+    <string name="BitcoinHodling_Description">Permite enviar Bitcoins que no se pueden gastar hasta la fecha establecida.\n\nEl receptor de dicha transacción debe utilizar el monedero B ONE PAYMENT.\n\nSólo el monedero B ONE PAYMENT puede identificar correctamente tales transacciones en la red Bitcoin, así como permitir que el receptor gaste esos Bitcoins después de que expire el período de bloqueo.\n\nSi eres un HODLer, puedes usar esta función para obligarte a retener tus Bitcoins enviándote dicha transacción a ti mismo.\n\nPor ser característica experimental, la cantidad máxima por transacción está limitada a 0.5 BTC.</string>
     <!--Manage Keys-->
     <string name="ManageKeys_Title">Gestionar Monederos</string>
     <string name="ManageKeys_Description">A continuación se destacan sus monederos activos donde cada monedero es responsable de diferentes tipos de criptomonedas.\n\nDebería hacer copias de seguridad de cada monedero resaltado, respaldando la clave privada de esa cartera. Esta clave es la única manera de restaurar sus fondos si su teléfono se pierde, lo roban, se avería, etc.</string>
@@ -332,7 +332,7 @@
     <!--Coin Option-->
     <string name="CoinOption_Title">Restaurar opciones</string>
     <string name="CoinOption_Fast_Subtitle">0-2 horas (Recomendado)</string>
-    <string name="CoinOption_SyncModeDescription">Selecciones la fuente que Unstoppable debe usar para descargar su saldo y transacciones.\n\nSistemas horizontales %1s API: \n%2s</string>
+    <string name="CoinOption_SyncModeDescription">Selecciones la fuente que B ONE PAYMENT debe usar para descargar su saldo y transacciones.\n\nSistemas horizontales %1s API: \n%2s</string>
     <string name="CoinOption_Slow_Subtitle">1-12 horas</string>
     <string name="CoinOption_BipDescriptionCreate">Esta configuración controla el formato de la dirección para este monedero de Bitcoin. Recomendamos usar BIP49 si no está seguro.</string>
     <string name="CoinOption_BipDescriptionRestore">Seleccione el formato de dirección para el Bitcoin en el monedero que intenta restaurar.</string>
