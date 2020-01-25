@@ -374,6 +374,7 @@
     </style>
 
     <style name="ButtonPrimaryYellow" parent="Button">
+        <item name="android:textColor">@color/white</item>
         <item name="android:background">@drawable/button_yellow_background</item>
     </style>
 
